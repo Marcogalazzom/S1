@@ -3,6 +3,7 @@ Objectif du programme : Échanger des valeurs de trois variables
 """
 
 # CONSTANTES
+
 MESS_DEMANDE = "Entrez trois réels : "
 MESS_AFFICHAGE = "Vous avez saisi"
 MESS_FINAL = "Après échange des variables"
