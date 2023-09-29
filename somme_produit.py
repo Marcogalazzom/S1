@@ -4,6 +4,7 @@ Objectif du programme : Affiche la somme et le produit
 """
 
 # CONSTANTES
+
 X = "x=? "
 Y = "y=? "
 
