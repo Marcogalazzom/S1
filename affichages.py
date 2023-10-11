@@ -32,4 +32,4 @@ print(A, B, A)
 
 # Sur la même ligne séparés par des tirets et avec un point d'exclamation final
 
-print(A, B, A, B, sep="-", end="-!")
+print(A, B, A, B, sep="-", end="-!\n")
