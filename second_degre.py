@@ -22,6 +22,7 @@ delta = b**2 - 4 * a * c
 
 print(DELTA, delta)
 
+# On vérifie le nombre de racines
 if delta > 0:
     # Deux racines
     print(X1, (-b - math.sqrt(delta))/(2 * a))
